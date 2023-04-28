@@ -1219,4 +1219,5 @@
 - [shibu5uke] (https://github.com/shibu5uke)
 - [Animesh Kumar](https://github.com/wttc-nitr)
 - [Murilo Moraes Cabral](https://github.com/murilomcabral)
+- [Elliot Golias](https://github.com/egolias1)
 <!-- prettier-ignore-end -->
